@@ -13,3 +13,6 @@ Write test cases and execute
 Usama: User management
 Zaviyaar: Database management
 Ahmad: Data Visuliazation
+
+Meeting 4
+Add databse "Sam" for running remove database case
